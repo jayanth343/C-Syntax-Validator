@@ -6,3 +6,4 @@ Supports the following constructs:
 - Functions
 - While Loop
 
+Run the files with `par` 
